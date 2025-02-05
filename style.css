@@ -3,9 +3,14 @@
   padding:0;
   box-sizing: border-box;
 }
+body{
+  background-color: #000;
+  color: #fff;
 header{
   display: flex;
   flex-direction: row;
+  background-color: gray;
+  color: black;
   font-family:Times New Roman, Sans-Serif;
   font-size: 2rem;
 }
